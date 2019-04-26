@@ -1,2 +1,2 @@
-# shell
+# shell_script
 Shell script
